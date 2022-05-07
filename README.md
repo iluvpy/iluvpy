@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Mio they/them, I'm 15 years old. <br>
+My name is Mio he/him, I'm 15 years old. <br>
 Feel free to make PRs, fork and submit issues to my repos.
 Have Fun!
 
