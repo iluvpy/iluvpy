@@ -1,5 +1,4 @@
 ### Hi there 👋
-My name is Mio, I'm 16 years old. <br>
 Feel free to make PRs, fork and submit issues to my repos.
 Have Fun!
 
