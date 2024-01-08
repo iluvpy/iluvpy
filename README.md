@@ -22,11 +22,5 @@ these are all the technologies I use:
 - ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iluvpy&theme=radical)
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iluvpy&langs_count=8&theme=radical)
-
 
 📬 you can always contact me at miomanns265@gmail.com :)
